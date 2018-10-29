@@ -1,4 +1,4 @@
-# door-delivery
+# DOOR DELIVERY
 Project for the #hackattackqc 2018 @Queen College New York https://redvanisation.github.io/door-delivery/
 
 ## Inspiration
