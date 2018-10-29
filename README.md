@@ -1,5 +1,5 @@
 # DOOR DELIVERY
-Project for the #hackattackqc 2018 @Queen College New York https://redvanisation.github.io/door-delivery/
+Project for the #hackattackqc 2018 @Queens College New York https://redvanisation.github.io/door-delivery/
 
 ## Inspiration
 Inspiration for this project is related to the challenge "Community Connected". Although there are delivery services that claim to deliver to apartments in New York City, the fact is, many times the delivery person often leaves the boxes or items. In my area of Queens, there are many senior citizens who live in pre-war buildings without elevators and struggle to remain independent enough to make their own meals. Although there are delivery services out there that claim to deliver to your doorstep, in most cases the delivery is left in lobbies. Our team came up with an idea for a non-profit Door Delivery Service for seniors and the disabled, a service free of charge based on donation only.
